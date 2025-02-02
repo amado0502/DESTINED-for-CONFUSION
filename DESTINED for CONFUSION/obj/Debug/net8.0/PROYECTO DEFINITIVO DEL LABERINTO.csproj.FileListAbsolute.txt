@@ -1,0 +1,58 @@
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.exe
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.deps.json
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.pdb
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\refint\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.pdb
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\ref\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\Spectre.Console.Cli.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\de\Spectre.Console.Cli.resources.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\fr\Spectre.Console.Cli.resources.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\sv\Spectre.Console.Cli.resources.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\obj\Debug\net8.0\PROYECTO.87AA939E.Up2Date
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\System.Private.Windows.Core.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\WenceyWang.FIGlet.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\NAudio.dll
+C:\Users\Lenovo\Desktop\PROYECTO DEFINITIVO DEL LABERINTO\bin\Debug\net8.0\System.Resources.Extensions.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.exe
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.deps.json
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.pdb
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\WenceyWang.FIGlet.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\NAudio.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\Spectre.Console.Cli.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\System.Private.Windows.Core.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\System.Resources.Extensions.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\de\Spectre.Console.Cli.resources.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\fr\Spectre.Console.Cli.resources.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\sv\Spectre.Console.Cli.resources.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO.87AA939E.Up2Date
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\refint\PROYECTO DEFINITIVO DEL LABERINTO.dll
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.pdb
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\PROYECTO DEFINITIVO DEL LABERINTO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\El Sendero de Ofelia\obj\Debug\net8.0\ref\PROYECTO DEFINITIVO DEL LABERINTO.dll

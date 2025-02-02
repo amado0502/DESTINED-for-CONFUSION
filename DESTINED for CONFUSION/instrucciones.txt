@@ -1,0 +1,16 @@
+**PARA ABRIR EL JUEGO
+-entre a la carpeta bin
+-entre a la carpeta Debug que esta dentro de la carpeta bin
+-entre a la carpeta net8.0 que esta dentro de la carpeta Debug
+-abra el archivo .exe con el nombre del juego
+
+**ACERCA DEL JUEGO
+-es un laberinto 101x101 que muestra 25x25 segun la posicion de los jugadores
+-para ganar ambos tienen que encontrar la salida del laberinto, cuando uno la encuentra deja de jugar
+-antes de empezar a jugar tienes que escoger entre 6 opciones de cualidades que te asignan un poder como jugador
+-hay 3 tipos de trampas con 10 de cada 1 esparcida por todo el laberinto
+-use Spectre.Console para darle algo de bonito al juego ya que es en consola
+-use NAudio.Wave para la musica 
+
+
+**Espero que les guste el juego
